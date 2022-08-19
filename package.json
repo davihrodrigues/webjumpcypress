@@ -1,0 +1,19 @@
+{
+  "name": "webjumpweb",
+  "version": "1.0.0",
+  "description": "prova de frontend da webjump",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "URLS": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Davi Haubricht Rodrigues",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^10.6.0",
+    "cypress-iframe": "^1.0.1"
+  }
+}

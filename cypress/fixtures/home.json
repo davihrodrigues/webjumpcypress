@@ -1,0 +1,62 @@
+{
+"Buttons": { 
+    "One": {
+        "name": "One",
+        "id":"#panel_body_one p #btn_one",
+        "idframe": "#btn_one"
+      },
+
+      "Two": {
+        "name": "Two",
+        "id":"#panel_body_one p #btn_two",
+        "idframe": "#btn_two"
+      },
+      "Three": {
+        "name": "Three",
+        "id":"#panel_body_one p #btn_three",
+        "idframe": "#btn_three"
+      },
+      "Four": {
+        "name": "Four",
+        "id":"#panel_body_one p #btn_link",
+        "idframe": "#btn_link"
+      }
+    },
+
+      "Fields": {
+        "Name": {
+          "name": "Davi",
+          "id":"#panel_body_one p #btn_link"
+          }
+      },
+
+      "CheckBox": {
+        "One": {
+          "id":":nth-child(7) > label"
+          },
+        "Two": {
+          "id":":nth-child(8) > label"
+          },
+        "Three": {
+          "id":":nth-child(9) > label",
+          "name": "OptionThree"
+          }          
+      },
+
+      "SelectBox": {
+        "One": {
+          "id":"#panel_body_one #select_box",
+          "box":"option_one" 
+          },
+        "Two": {
+          "id":"#panel_body_one #select_box",
+          "box":"option_two" 
+          }
+      },
+      "Images": {
+        "Selenium": {
+          "id":"[alt='selenium']"
+         }
+      }
+  
+}
